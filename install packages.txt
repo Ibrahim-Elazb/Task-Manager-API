@@ -1,0 +1,13 @@
+express
+dotenv
+cookie-parser
+joi
+multer
+bcrypt
+
+(Optionally)
+express-session   or      jsonwebtoken
+cors
+@sendgrid/mail
+pg                or      mongoose
+pg-format
